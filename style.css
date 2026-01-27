@@ -18,6 +18,9 @@ form{
     color: white;
     box-shadow: 0 0 2px black;
 }
+label, button{
+    font-size: 20px;
+}
 input{
     width: 100%;
     display: inline-block;
@@ -32,7 +35,6 @@ button{
     border: none;
     border-radius: 3px;
     cursor: pointer;
-    font-weight: bold;
 }
 .btns{
     margin-block: 5px;
